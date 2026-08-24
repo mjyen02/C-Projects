@@ -1,2 +1,2 @@
 # C-Projects
-C++ projects developed during University courses
+C-based projects developed during University courses
